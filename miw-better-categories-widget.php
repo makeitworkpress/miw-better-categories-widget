@@ -4,7 +4,7 @@
  *
  * Plugin Name: Better Categories Widget
  * Plugin URI:  https://github.com/makeitworkpress/wp-categories-widget
- * Description: Provides better controls over displaying categories in a widget for post archives.
+ * Description: Provides better controls over displaying categories in the categories widget for post archives.
  * Version:     1.0
  * Author:      Make it WorkPress
  * Author URI:  https://makeitwork.press
